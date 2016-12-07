@@ -3,6 +3,7 @@ var webpack = require('webpack');
 var path = require('path');
 
 //npm start
+//npm i -g webpack -> install webpack globaly
 //run prodcution -> NODE_ENV=production webpack
 //run webpack --watch to build full client.min.js
 //npm install npm@latest -g  Install latest npm
