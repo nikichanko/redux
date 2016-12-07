@@ -1,5 +1,5 @@
 {
-  "name": "redux",
+  "name": "redux-test",
   "version": "1.0.0",
   "description": "reactjs na dredux",
   "main": "webpack.config.js",
@@ -30,6 +30,7 @@
     "react-addons-test-utils": "^15.4.1",
     "react-dom": "^15.4.1",
     "react-lazyload": "^2.2.0",
+    "redux": "^3.6.0",
     "sass-loader": "^4.0.2",
     "style-loader": "^0.13.1",
     "tap-spec": "^4.1.1",
